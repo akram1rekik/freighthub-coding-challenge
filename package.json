@@ -1,0 +1,8 @@
+{
+  "name": "FreightHubCodingChallenge",
+  "version": "1.0.0",
+  "author": "akram rekik",
+  "dependencies": {
+    "async-lock": "^1.2.0"
+  }
+}
